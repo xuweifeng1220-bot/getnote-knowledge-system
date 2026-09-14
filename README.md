@@ -34,13 +34,13 @@ getnote-knowledge-capturer -> getnote-knowledge-maintainer
 发布到 GitHub 后，用户可以安装全部 skills：
 
 ```bash
-npx skills add yourname/getnote-knowledge-system
+npx skills add xuweifeng1220-bot/getnote-knowledge-system
 ```
 
 也可以只安装一个 skill：
 
 ```bash
-npx skills add yourname/getnote-knowledge-system --skill getnote-knowledge-analyzer
+npx skills add xuweifeng1220-bot/getnote-knowledge-system --skill getnote-knowledge-analyzer
 ```
 
 安装后重启对应 Agent。
