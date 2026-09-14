@@ -1,0 +1,4 @@
+interface:
+  display_name: "Getnote Knowledge Analyzer"
+  short_description: "自动调用Get笔记框架与证据笔记完成深度分析和推导"
+  default_prompt: "Use $getnote-knowledge-analyzer to analyze a business, investment, product, or cognition question using the user's Get笔记 framework notes and evidence notes."

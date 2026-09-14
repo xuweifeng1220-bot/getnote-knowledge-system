@@ -1,0 +1,4 @@
+interface:
+  display_name: "Getnote Knowledge Maintainer"
+  short_description: "定期整理Get笔记新增内容并持续迭代知识框架体系能力"
+  default_prompt: "Use $getnote-knowledge-maintainer to scan recent or unfiled Get笔记 notes, classify them, update XMind-style framework notes, and maintain the governance log."

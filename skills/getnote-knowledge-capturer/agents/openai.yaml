@@ -1,0 +1,4 @@
+interface:
+  display_name: "Getnote Knowledge Capturer"
+  short_description: "把AI生成的新认知、框架、方法和skill设计回流沉淀到Get笔记"
+  default_prompt: "Use $getnote-knowledge-capturer to capture high-value AI outputs, frameworks, methods, or skill designs back into Get笔记 as structured knowledge notes with maintainer review signals."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Getnote Knowledge Sprouter"
+  short_description: "跨库关联Get笔记知识并生成新认知、产品想法和商业机会"
+  default_prompt: "Use $getnote-knowledge-sprouter to generate cross-knowledge sprouts from the user's Get笔记 frameworks and knowledge bases, updating the single sprout log with new insights, questions, product ideas, and opportunities."
